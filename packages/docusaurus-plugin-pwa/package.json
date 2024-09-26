@@ -35,7 +35,7 @@
     "webpack": "^5.68.0",
     "webpack-merge": "^5.8.0",
     "workbox-build": "^6.4.2",
-    "workbox-precaching": "^6.1.1",
+    "workbox-precaching": "^7.1.0",
     "workbox-window": "^6.4.2"
   },
   "devDependencies": {
