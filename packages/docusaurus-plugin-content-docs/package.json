@@ -45,7 +45,7 @@
     "@types/picomatch": "^2.3.0",
     "commander": "^5.1.0",
     "escape-string-regexp": "^4.0.0",
-    "picomatch": "^2.3.1",
+    "picomatch": "^4.0.2",
     "shelljs": "^0.8.5",
     "utility-types": "^3.10.0"
   },
